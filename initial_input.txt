@@ -1,0 +1,11 @@
+# Initial Input Configuration
+# Format: x, y, z, mass, drag
+# Lines starting with # are comments
+# Example:
+# 200, 200, 100, 1.0, 0.1
+
+100, 100, 0, 1.5, 0.1
+300, 100, 0, 1.5, 0.1
+500, 100, 0, 1.5, 0.1
+200, 300, 0, 2.0, 0.2
+400, 300, 0, 2.0, 0.2
